@@ -27,47 +27,47 @@ https://docs.microsoft.com/en-us/users/tihuynh/collections/o35otz8dzjk61x
 
 ### Cloud Concepts - Principles of cloud computing
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/)
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
 
 ### Introduction to Linux on Azure
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/)
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/
 
 ### Introduction to Azure virtual machines
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/
 
 ### Create a Linux virtual machine in Azure
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/)
+https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/
 
 ### Build and run a web application with the MEAN stack on an Azure Linux virtual machine
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/)
+https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/
 
 ### Introduction to open-source database migration on Azure
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/
+https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/
 
 ### Design your migration to Azure
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/)
+https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/
 
 ### Protect your servers and VMs from brute-force and malware attacks with Azure Security Center
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/)
+https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/
 
 ### Host a web application with Azure App service
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/)
+https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
 
 ### Optimize your web applications by caching read-only data with Redis
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/)
+https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/
 
 ### Introduction to Azure Kubernetes Service
 
-![Screenshot](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/)
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/
 
 ## ☁️ Cloud Outcome
 
@@ -81,4 +81,4 @@ https://docs.microsoft.com/en-us/users/tihuynh/collections/o35otz8dzjk61x
 
 ✍️ #LinuxOnAzure #OpenAzureDay #Containers #OpenSource #OSSDBMS
 
-[link](link)
+[Tweet](https://twitter.com/truongbui/status/1330145759342301185)
