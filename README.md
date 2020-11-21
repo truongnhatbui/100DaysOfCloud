@@ -14,20 +14,20 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [✍️ Truong]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ I am passionate about the opportunities resulting from the convergence of Digital Intelligence, Digital Transformation and Modern Infrastructure.]
 
-[✍️ Tell us why you started this challenge]
+[✍️ As an Industry Analyst, Strategic Advisor, and a Practicing Architect, I am focus is on in-depth research and analysis of Next-Gen Technologies (Artificial Intelligence, Robotics Process Automation, Cloud Professional Services, Data Analytics, Mobility), Digital Transformation, Strategic Advisory to product companies, and architecting scalable applications based on Cloud Native Architecture.]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[✍️ Becoming a Cloud Native Expert]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ @truongbui](https://twitter.com/truongbui)
+- [✍️ @truongbui](https://www.linkedin.com/in/truongbui/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [x] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)

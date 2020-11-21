@@ -1,52 +1,84 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+**Open Azure Day 2020**
+![placeholder image](https://github.com/YenChiHo/OpenAzureDay/blob/main/Apple%20watch_LinuxDE_Heart.png)
 
-# New post title here
+# Open Azure Day 2020
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Learn and Practice Linux on Azure 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Azure Command-Line Interface (CLI) documentation
+https://docs.microsoft.com/en-us/cli/azure/
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- 🖼️ How to run Linux apps on Azure 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ Cloud Native
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+✍️ Open Azure Day Linux/OSS Collections
+https://docs.microsoft.com/en-us/users/tihuynh/collections/o35otz8dzjk61x 
 
-### Step 1 — Summary of Step
+### Cloud Concepts - Principles of cloud computing
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/)
 
-### Step 1 — Summary of Step
+### Introduction to Linux on Azure
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/)
 
-### Step 3 — Summary of Step
+### Introduction to Azure virtual machines
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
+
+### Create a Linux virtual machine in Azure
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/)
+
+### Build and run a web application with the MEAN stack on an Azure Linux virtual machine
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/)
+
+### Introduction to open-source database migration on Azure
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/
+
+### Design your migration to Azure
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/)
+
+### Protect your servers and VMs from brute-force and malware attacks with Azure Security Center
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/)
+
+### Host a web application with Azure App service
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/)
+
+### Optimize your web applications by caching read-only data with Redis
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/)
+
+### Introduction to Azure Kubernetes Service
+
+![Screenshot](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ Run Linux apps on Azure. Learned to natively run Linux and open source in the cloud and push apps and data to the next level.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ Microsoft KubeCon North America 2020 Cloud Skills Challenge
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+✍️ #LinuxOnAzure #OpenAzureDay #Containers #OpenSource #OSSDBMS
 
 [link](link)
