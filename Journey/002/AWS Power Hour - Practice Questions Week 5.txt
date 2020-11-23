@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Practice Questions, Week 5
+
+
+1.  Which AWS cloud service allows organizations to gain system-wide visibility into resource utilization, application performance, and operational health?
+
+
+a)  AWS Identity and Access Management (IAM)
+b)  Amazon CloudWatch
+c)  Amazon Simple Notification  Service (Amazon SNS)
+d)  AWS CloudFormation
+
+
+2.  Which principles are part of the AWS Well-Architected Framework? (Select
+THREE.)
+
+
+a)  Reliability b)  Ownership
+c)  Cost Optimization
+d)  Innovation e)  Security
+3.  Your company works with data  that requires frequent audits  of your AWS environment to ensure compliance with internal  policies and best  practices.  In order to perform these audits, you need  access to historical configurations of your resources to evaluate relevant configuration changes. Which service will provide the necessary information for your audits?
+
+
+a)  AWS Key Management Service b)  AWS Config
+c)  AWS CloudTrail
+d)  AWS OpsWorks
+
+
+4.  All AWS customers receive access to AWS Basic Support. Which of the following benefits is included  in the Basic Support plan? (Select THREE.)
+
+
+a)  Architectural  guidance
+b)  24x7 access to customer service
+c)  Access to the core AWS Trusted  Advisor checks
+d)  A personalized view of the health of AWS services, including alerts when customer resources are impacted
+e)  Access to online self-paced labs for training purposes
+
+
+5.  Which AWS service provides  you with alerts and remediation guidance when AWS
+is experiencing events that may impact your cloud resources?
+
+
+a)  AWS Trusted  Advisor
+b)  AWS Personal Health  Dashboard c)  Amazon Connect
+d)  Amazon Inspector
+
+
+6.  Which AWS tool would be the best  choice to apply security policies to multiple accounts?
+
+
+a)  AWS Cost Explorer b)  AWS CloudTrail
+c)  Amazon CloudWatch d)  AWS Organizations
+7.  Your organization has multiple  accounts on AWS. What constitutes a best  practice for managing costs in this situation?  (Select THREE.)
+
+
+a)  Create and implement AWS tagging standards across your accounts to standardize how your organization categorizes, controls  access to, and reports on AWS resources
+b)  Associate accounts with different business  units or functional teams
+c)  Ensure that  each account is billed separately for the AWS resources used within those accounts
+d)  Use a group  alias rather than an individual email address as the account email address
+
+
+8.  Which AWS service helps you forecast how much you’re likely to spend over the next three  months and gives you recommendations for what Reserved Instances to purchase?
+
+
+a)  AWS Simple Monthly Calculator b)  AWS Cost Explorer
+c)  AWS Trusted  Advisor d)  Amazon Connect
+
+
+9.  Your company’s IT management team is looking for an online tool to provide recommendations to save money,  improve system availability and performance, and to help close security gaps. Which AWS service can help the team meet their needs?
+
+
+a)  Amazon GuardDuty b)  AWS Config
+c)  Amazon Connect
+d)  AWS Trusted  Advisor
+
+
+
+Answers
+
+1) b; 2) a, c, e; 3) b; 4) b, c, d; 5) b; 6) d; 7) a, b, d; 8) b; 9) d

@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Practice Questions, Week 3
+
+
+
+1.  Example.com  is facing performance issues on their multi-AZ Amazon RDS
+instance.  Upon investigation, you find that an internal team is running  a lot of
+read-heavy reporting queries  on the primary RDS node. What solution  can be used for improving performance of the Amazon RDS database?
+
+
+a)    Direct reporting queries  to standby instance.
+b)   Do nothing, it will improve over time.
+c)    Implement read replica for reporting queries.
+d)   Implement snapshots for reporting queries.
+
+
+2.  Which AWS service is used as a key-value or document database?
+
+
+a)    AWS Lambda
+b)   Amazon EC2
+c)    Amazon DynamoDB
+d)   Amazon Timestream
+3.  You would like to build your application within your VPC ensuring high availability.
+Which strategy would deliver the required  results?
+
+
+a)    Deploy two EC2 instances, ensuring that each are in a separate Availability Zone. You then  use Elastic Load Balancing to distribute traffic to each instance
+b)   Deploy two EC2 instances within a single Availability Zone with Elastic Load
+Balancing
+c)    Deploy a single EC2 instance within a single Availability Zone, this will be more  cost effective  and is still highly available
+d)   Applications deployed into your VPC are automatically Highly available,
+there  is no need  to do anything
+
+
+4.  Which of the following is a fully managed graph  database service?
+
+
+a)    Amazon Neptune
+b)   Amazon RDS
+c)    Amazon Aurora
+d)   Amazon DynamoDB
+
+
+5.  Which of the following is an example of an unmanaged service on AWS?
+
+
+a)    Amazon RDS
+b)   Amazon EC2
+c)    Amazon DynamoDB
+d)   Amazon Timestream
+
+
+
+
+
+Answers
+
+1) c; 2) c; 3) a; 4) a; 5) b

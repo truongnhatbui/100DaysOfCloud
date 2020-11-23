@@ -27,8 +27,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Stepping out the door
 
-- [x] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [x] ☁️ 1 > [Open Azure Day 2020](Journey/001/Readme.md)
+- [x] ☁️ 2 > [Get AWS Certified Global Challenge](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)

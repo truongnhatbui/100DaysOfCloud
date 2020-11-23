@@ -1,0 +1,46 @@
+Practice Questions, Week 2
+
+You have provisioned several Amazon EC2 instances to support your applications. Your applications receive steady traffic throughout the year. Which is the most cost-effective pricing model for your situation?
+
+Reserved Instances
+Spot Instances 
+On-Demand Instances
+Dedicated Instances 
+
+2) Which of the following AWS services are considered compute services? (Select TWO.)
+
+Amazon EC2
+AWS Lambda
+Amazon DynamoDB
+Amazon FSx 
+
+3) Which Amazon EC2 feature could be used to ensure that your instances will not share a physical host with any other instance, including instances from the same AWS account?
+Reserved Instances 
+Dedicated Hosts
+Amazon Virtual Private Cloud (VPC)
+Dedicated Instances 
+
+4) Security groups provide a virtual firewall around which boundary?
+VPC
+Instance 
+Application 
+Network
+
+5) What AWS Cloud service provides a logically isolated areas within the AWS Cloud where organizations can launch AWS resources in a virtual network that they define?
+Amazon Virtual PrivateCloud
+Amazon Route 53
+Amazon Virtual Private Network
+AWS Direct Connect  
+
+Which Amazon EC2 pricing model allows you to pay a set hourly price for compute, giving you full control over when the instance launches and terminates?
+Reserved Instances 
+Dedicated Instances 
+Spot Instances 
+On-Demand Instances 
+
+Your company experiences fluctuations in traffic patterns to their e-commerce website based on flash sales. What service can help your company dynamically match the required compute capacity to the spike in traffic during flash sales?
+AWS Auto Scaling 
+Amazon Virtual Private Cloud (VPC)
+AWS Step Functions 
+Elastic Load Balancing 
+
